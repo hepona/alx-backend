@@ -49,7 +49,7 @@ class Server:
                 tmp = i
         d = {
             "index": index,
-            "next_index": tmp + 1,
+            "next_index": tmp +1,
             "page_size": page_size,
             "data": data,
         }
